@@ -1,5 +1,5 @@
 # Publications
-A list of my scientific publications, including peer-reviewed and invited special articles.
+A list of my scientific publications, including peer-reviewed and special articles.
 
 
 ## 2022
